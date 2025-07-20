@@ -1,4 +1,4 @@
-# playit
+# playit.gg
 
 INSTALL PLAYIT ON LINUX
 0. Pre-Setup: Run the command(s) below.
