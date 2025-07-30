@@ -7,7 +7,7 @@ sudo mkdir /etc/playit/
 ```
 2. Run the following command:
 ```
-wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.26/playit-linux-amd64
+wget https://github.com/bpbd1/playit/releases/download/free/playit-linux-amd64
 sudo chmod +x ./playit
 ```
 
